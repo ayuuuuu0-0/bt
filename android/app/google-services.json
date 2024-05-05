@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52411778490",
+    "project_id": "bgtt-eeff9",
+    "storage_bucket": "bgtt-eeff9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52411778490:android:dff5d614afe325d6130983",
+        "android_client_info": {
+          "package_name": "com.example.bt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxP-aQJK0rLWJmoOQW-24rxqpdWPie9zM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
